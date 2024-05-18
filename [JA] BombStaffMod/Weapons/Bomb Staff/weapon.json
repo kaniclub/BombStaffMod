@@ -1,0 +1,18 @@
+{
+  "Name": "Bomb Staff",
+  "Description": "A powerful staff that summons explosions.",
+  "MinimumDamage": 0,
+  "MaximumDamage": 0,
+  "Knockback": 0,
+  "Speed": 1,
+  "Accurary": 10,
+  "Defense": 5,
+  "CritChance": 0,
+  "CritMultiplier": 0,
+  "MineDropVar": -1,
+  "MineDropMinimumLevel": -1,
+  "CanPurchase": true,
+  "PurchaseFrom": "Marlon",
+  "PurchasePrice": 1000,
+  "Recipe": null,
+}

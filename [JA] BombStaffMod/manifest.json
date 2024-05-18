@@ -1,0 +1,12 @@
+{
+    "Name": "Bomb Staff Mod",
+    "Author": "kaniclub",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.0.0",
+    "Description": "Adds a Bomb Staff tool to the game.",
+    "UniqueID": "kaniclub.BombStaffMod",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    },
+}
